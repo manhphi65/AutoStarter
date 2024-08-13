@@ -2,10 +2,10 @@ package com.judemanutd.autostarterexample
 
 import android.os.Build
 import android.os.Bundle
-import android.support.v7.app.AppCompatActivity
 import android.util.Log
 import android.widget.Button
 import android.widget.Toast
+import androidx.appcompat.app.AppCompatActivity
 import com.judemanutd.autostarter.AutoStartPermissionHelper
 
 class MainActivity : AppCompatActivity() {
